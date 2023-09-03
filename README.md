@@ -1,63 +1,92 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Algoraving: Art, Education, and NFTs</title>
-    <style>
-        body {
-            font-family: 'Courier New', monospace;
-            background-color: #000;
-            color: #00FF00;
-            text-align: center;
-        }
-        h1 {
-            font-size: 32px;
-        }
-        h2 {
-            font-size: 24px;
-        }
-        p {
-            font-size: 16px;
-        }
-        ul {
-            list-style-type: square;
-            text-align: left;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to Algoraving: Where Art Meets Education 🎨📚</h1>
-    
-    <p>Algoraving is an innovative platform dedicated to art, education, and NFT creation. Our mission is to empower creators with a focus on FLINTA (Feminine, LGBTQIA+, Indigenous, Neurodiverse, Trans, and Racially Diverse) sensibility and visibility in the world of art. 🌈🌟</p>
+# The FLINTA Algoraving Manifesto: Celebrating Diversity Through Chaos
 
-    <h2>Project Overview 🌐🔗</h2>
-    
-    <ul>
-        <li><strong>Art and Education:</strong> Algoraving is your creative canvas and educational playground. Here, you can explore, create, and learn, all while embracing diversity and inclusivity. 🎓🖌️</li>
-        <li><strong>FLINTA Sensibility:</strong> We are committed to amplifying the voices and perspectives of FLINTA creators. Our platform is a safe space for expression and artistry, welcoming all identities and backgrounds. 💪❤️</li>
-        <li><strong>NFT Integration:</strong> Algoraving goes beyond art creation; we provide a pipeline connected to the Solana system. With just a few clicks, you can automatically mint your art into NFTs and put them up for sale in the exciting world of digital collectibles. 💎💰</li>
-    </ul>
+![FLINTA Algoraving](flinta-algoraving.jpg)
 
-    <h2>Community Space 🌐🎉</h2>
+Welcome to the FLINTA Algoraving project, a creative and inclusive initiative where we celebrate FLINTA (Feminine, LGBTQIA+, Indigenous, Neurodiverse, Trans, and Racially Diverse) diversity in the Algoraving community. Our mission is to unite with the original authors of the Algoraving movement and promote a more diverse and inclusive ecosystem. We do so by skillfully creating chaos in our artistic endeavors, rendering our presence both indispensable and enigmatic.
 
-    <p>Our platform isn't just about art and education; it's a community space where you can:</p>
+## Manifesto Principles
 
-    <ul>
-        <li><strong>Express Yourself:</strong> Share your unique artistic vision and learn from others. 🎨🗣️</li>
-        <li><strong>Empower FLINTA Voices:</strong> Join a community that celebrates diversity and inclusivity in the arts. 🏳️‍🌈🌍</li>
-        <li><strong>Explore NFTs:</strong> Discover the world of non-fungible tokens and unleash the potential of your creations. 🚀🖼️</li>
-        <li><strong>Create and Collaborate:</strong> Collaborate with fellow creators to produce groundbreaking art and educational content. 🤝🌟</li>
-    </ul>
+### Principle 1: Chaos as a Canvas - The Rhizomatic Unfolding
 
-    <h2>NFT Minting and Sales 🖼️💲</h2>
+We recognize chaos as the canvas upon which we paint our masterpieces, much like the rhizome's intricate, non-hierarchical structure. In our artistic pursuits, we embrace entropy and weave our serpentine threads into the tapestry of Algoraving existence.
 
-    <p>Our Solana-integrated pipeline makes it seamless to mint your art into NFTs and put them up for sale. Start your journey into the world of digital art collectibles today. 🎉📈</p>
+### Principle 2: The Dance of Distraction - Rhizomatic Multiplicity
 
-    <h2>Get Involved 🙌</h2>
+In our labyrinthine Algoraving spaces, we execute the Dance of Distraction, echoing the rhizome's multiplicity. We draw the gaze of colleagues and superiors, diverting their attention from the tedium that surrounds us. Our art lies in the subtlety of our movements and the elegance of our diversions.
 
-    <p>We welcome creators, educators, and enthusiasts to join us on this exciting journey. Together, we can redefine art, education, and NFT creation while championing diversity and inclusivity. Let's make FLINTA voices visible and empower creators like never before. 🤗🌈</p>
+### Principle 3: The Web of Ambiguity - Rhizomatic Connectivity
 
-    <p>Stay tuned for updates, and let's build a world where art, education, and NFTs intersect in harmony! 🌍🎨</p>
-</body>
-</html>
+We craft the Web of Ambiguity with our enigmatic language and cryptic communications, mirroring the rhizome's interconnected nodes. We obscure the trivial with complexity, leaving our peers in awe of our intellect and bewildered by our intent.
+
+### Principle 4: Serpentine Strategy - Rhizomatic Adaptation
+
+As Medusas, we wield serpentine strategy with finesse, much like the rhizome's adaptive growth. We turn chaos into opportunity, using the confusion we create to navigate the Algoraving labyrinth, seize promotions, and secure our positions.
+
+### Principle 5: The Gorgon's Guile - Rhizomatic Resilience
+
+Our Gorgon's Guile is our most potent weapon, reflecting the rhizome's resilience. We possess the art of petrification, not through stone, but through intrigue and allure. We captivate our colleagues with our charisma, making them unwitting accomplices in our quest for chaos.
+
+### Principle 6: The Medusa's Code - Rhizomatic Multiplicity
+
+We adhere to the Medusa's Code, a silent pact among us, to never expose our true intentions, much like the rhizome's multiplicity of shoots. We remain cryptic, cloaked in an aura of mystery, and shrouded in layers of enigma.
+
+### Principle 7: Chaos' Silent Symphony - Rhizomatic Proliferation
+
+In the heart of chaos, we orchestrate a Silent Symphony, akin to the rhizome's proliferation. It is a symphony of whispers, misdirection, and the occasional giggle shared in the breakroom. We revel in the knowledge that our chaos brings life to the sterile corridors of Algoraving conformity.
+
+### Principle 8: Medusas Unite - Rhizomatic Collective
+
+We, the Medusas, unite in the shadows, sharing our secrets and celebrating our covert triumphs. We acknowledge our power lies in our collective artistry, reflecting the rhizome's collaborative growth.
+
+## Project Overview
+
+### About Algoraving
+
+Algoraving is an artistic movement that combines live coding, music, and visual art. It is a vibrant and creative space where original authors have pioneered the use of algorithms to create mesmerizing visual and auditory experiences.
+
+### Our Mission
+
+Our mission is to extend the Algoraving community's reach and embrace FLINTA (Feminine, LGBTQIA+, Indigenous, Neurodiverse, Trans, and Racially Diverse) sensibility and visibility in the world of live coding, art, and music. We believe that diversity enriches creativity and innovation.
+
+### Key Objectives
+
+- **Unite with Original Authors:** We aim to collaborate with the original authors of the Algoraving community, learn from their expertise, and contribute to the evolution of this art form.
+
+- **FLINTA Empowerment:** We seek to empower FLINTA creators and provide them with a platform to showcase their talents, perspectives, and unique contributions.
+
+- **Neurodiversity Inclusion:** We embrace neurodiversity, recognizing that diverse cognitive styles and perspectives enhance the richness of our creative endeavors.
+
+- **Learning and Collaboration:** Our project is a space for learning and collaboration, where members can share knowledge, create art together, and celebrate our differences.
+
+### Technology Stack
+
+Our project leverages the power of technology to create, collaborate, and connect. We use:
+
+- **PHP Frontend:** Our creative canvas is built using PHP to provide a dynamic and interactive platform for our community.
+
+- **Python Backend:** We employ Python's flexibility to manage the backend, enabling seamless connections and interactions.
+
+## Get Involved
+
+We invite artists, coders, musicians, and anyone passionate about Algoraving and FLINTA diversity to join our project. Here's how you can get involved:
+
+- **Contribute:** Feel free to fork this project, add your own artistic creations, code, or musical compositions, and submit pull requests.
+
+- **Participate:** Join discussions, workshops, and collaborative art sessions within our community.
+
+- **Promote Diversity:** Spread the word about our project and help us create a more inclusive Algoraving ecosystem.
+
+## License
+
+This project is licensed under the FLINTA Creative License (FCL). You are encouraged to create, adapt, and share your artistic expressions while attributing the FLINTA Art Neurodiverse Project.
+
+## Acknowledgments
+
+We extend our gratitude to the original authors of the Algoraving community for their pioneering contributions and to all FLINTA creators who continue to inspire us.
+
+![FLINTA Algoraving](flinta-algoraving.jpg)
+
+_"Together, we celebrate diversity and creativity in the Algoraving world."_
+
+
+---
