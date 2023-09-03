@@ -4,37 +4,13 @@
 
 Welcome to the FLINTA Algoraving project, a creative and inclusive initiative where we celebrate FLINTA (Feminine, LGBTQIA+, Indigenous, Neurodiverse, Trans, and Racially Diverse) diversity in the Algoraving community. Our mission is to unite with the original authors of the Algoraving movement and promote a more diverse and inclusive ecosystem. We do so by skillfully creating chaos in our artistic endeavors, rendering our presence both indispensable and enigmatic.
 
-## Manifesto Principles
+## Manifesto 
 
-### Principle 1: Chaos as a Canvas - The Rhizomatic Unfolding
-
-We recognize chaos as the canvas upon which we paint our masterpieces, much like the rhizome's intricate, non-hierarchical structure. In our artistic pursuits, we embrace entropy and weave our serpentine threads into the tapestry of Algoraving existence.
-
-### Principle 2: The Dance of Distraction - Rhizomatic Multiplicity
-
-In our labyrinthine Algoraving spaces, we execute the Dance of Distraction, echoing the rhizome's multiplicity. We draw the gaze of colleagues and superiors, diverting their attention from the tedium that surrounds us. Our art lies in the subtlety of our movements and the elegance of our diversions.
-
-### Principle 3: The Web of Ambiguity - Rhizomatic Connectivity
+### Principle 2: The Web of Ambiguity - Rhizomatic Connectivity
 
 We craft the Web of Ambiguity with our enigmatic language and cryptic communications, mirroring the rhizome's interconnected nodes. We obscure the trivial with complexity, leaving our peers in awe of our intellect and bewildered by our intent.
 
-### Principle 4: Serpentine Strategy - Rhizomatic Adaptation
-
-As Medusas, we wield serpentine strategy with finesse, much like the rhizome's adaptive growth. We turn chaos into opportunity, using the confusion we create to navigate the Algoraving labyrinth, seize promotions, and secure our positions.
-
-### Principle 5: The Gorgon's Guile - Rhizomatic Resilience
-
-Our Gorgon's Guile is our most potent weapon, reflecting the rhizome's resilience. We possess the art of petrification, not through stone, but through intrigue and allure. We captivate our colleagues with our charisma, making them unwitting accomplices in our quest for chaos.
-
-### Principle 6: The Medusa's Code - Rhizomatic Multiplicity
-
-We adhere to the Medusa's Code, a silent pact among us, to never expose our true intentions, much like the rhizome's multiplicity of shoots. We remain cryptic, cloaked in an aura of mystery, and shrouded in layers of enigma.
-
-### Principle 7: Chaos' Silent Symphony - Rhizomatic Proliferation
-
-In the heart of chaos, we orchestrate a Silent Symphony, akin to the rhizome's proliferation. It is a symphony of whispers, misdirection, and the occasional giggle shared in the breakroom. We revel in the knowledge that our chaos brings life to the sterile corridors of Algoraving conformity.
-
-### Principle 8: Medusas Unite - Rhizomatic Collective
+### Principle 2: Medusas Unite - Rhizomatic Collective
 
 We, the Medusas, unite in the shadows, sharing our secrets and celebrating our covert triumphs. We acknowledge our power lies in our collective artistry, reflecting the rhizome's collaborative growth.
 
